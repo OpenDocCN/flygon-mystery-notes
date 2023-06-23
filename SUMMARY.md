@@ -1,5 +1,5 @@
 +   [三波志愿者与新地球](docs/san-bo-zhi-yuan-zhe/README.md)
-+   [秘密背后的秘密](docs/smimi-beihoude-mimi/README.md)
++   [秘密背后的秘密](docs/mimi-beihoude-mimi/README.md)
 +   [显化](docs/xianhua/README.md)
 +   [挠场的科学](docs/naochangde-kexue/README.md)
 +   [灵界的科学](docs/lingjiede-kexue/README.md)
